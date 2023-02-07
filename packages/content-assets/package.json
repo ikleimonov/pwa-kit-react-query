@@ -1,0 +1,17 @@
+{
+    "name": "@capgemini/content-assets",
+    "version": "0.0.1",
+    "description": "",
+    "main": "index.jsx",
+    "exports": {
+        ".": "./index.jsx",
+        "./content-search": "./pages/content-search",
+        "./content-details": "./pages/content-details"
+    },
+    "type": "module",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC"
+}
